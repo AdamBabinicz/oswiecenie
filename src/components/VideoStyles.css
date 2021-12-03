@@ -1,0 +1,42 @@
+.hero {
+  height: 100vh;
+  width: 100%;
+  object-fit: contain;
+}
+#video {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+.hero .content {
+  text-align: center;
+  position: absolute;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  top: 40vh;
+}
+.hero .content h1 {
+  font-size: 4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+.hero p {
+  font-size: 1.4rem;
+  margin: 1.6rem 0;
+}
+.hero .btn {
+  margin: 1rem 0.2rem;
+}
+
+@media only screen and (max-width: 640px) {
+  .hero .content h1 {
+    font-size: 3rem;
+  }
+  .hero p {
+    font-size: 1rem;
+    padding: 0 2rem;
+  }
+}
