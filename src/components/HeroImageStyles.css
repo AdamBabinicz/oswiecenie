@@ -34,6 +34,9 @@
   margin: auto;
   text-align: center;
   padding: 1rem;
+  background: linear-gradient(to right, #dde6ff, #addaff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 @media only screen and (max-width: 640px) {
