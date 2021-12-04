@@ -13,7 +13,7 @@ const Form = () => {
         heroikomicznych, takich jak "Myszeida", oraz dwa mówiące o mnichach
         "Monachomachia" i "Antymonachomachia". Najpełniej swoja krytykę
         społeczeństwa wyrażał w satyrach, których napisał ponad dwadzieścia, by
-        wymienić z nich tylko" "Do Króla" "Pijaństwo", "Żonę modną", czy "Świat
+        wymienić z nich tylko "Do Króla", "Pijaństwo", "Żonę modną", czy "Świat
         zepsuty". Krasicki był również autorem pierwszej powieści polskiej
         zatytułowanej "Mikołaja Doświadczyńskiego przypadki przez niegoż samego
         opisane", oraz innej "Pan Podstoli".
@@ -28,19 +28,19 @@ const Form = () => {
       <p>
         Niektórzy poeci uchodzili za wolnomyślicieli i libertynów. Stanisław
         Trembecki w "Odzie nie do druku" głosił wielka pochwałę rozumu, nad
-        wiarą i ogłupiającymi działaniami księży. . Jego najwybitniejszym
-        poematem pozostaje jednak napisana u schyłku życia, bo w 1806 roku
-        "Sofiówka". Podobny antyklerykalizm wykazuje twórczość Tomasza Kajetana
+        wiarą i ogłupiającymi działaniami księży. Jego najwybitniejszym poematem
+        pozostaje jednak napisana u schyłku życia, bo w 1806 roku "Sofiówka".
+        Podobny antyklerykalizm wykazuje twórczość Tomasza Kajetana
         Węgierskiego. I on napisał poemat heroikomiczny zatytułowany "Organy".
       </p>
       <p>
         Jakby osobno działała grupa poetów podążających za prądem
-        sentymentalizmu. Tutaj należy twórczość Franciszka Dionizego Kniaźnina
-        autora m. in. "Ody do wąsów", oraz tzw. "poety serca" Franciszka
+        sentymentalizmu. Tutaj należy twórczość Franciszka Dionizego Kniaźnina,
+        autora m.in. "Ody do wąsów", oraz tzw. "poety serca" Franciszka
         Karpińskiego. Był on autorem sielanek, jak np. "Laura i Filon" oraz
         licznych wierszy osobistych, jak "Do Justyny. Tęskność na wiosnę". Do
         dzisiaj śpiewa się również jego "Pieśń poranną" i "Pieśń wieczorną", zaś
-        w kościołach, w okresie Bożego Narodzenia, kolędę "Bóg się rodzi....".
+        w kościołach, w okresie Bożego Narodzenia, kolędę "Bóg się rodzi ...".
       </p>
       <p>
         Ważne również jest zaznaczenie wielkich dzieł publicystycznych, dążących
