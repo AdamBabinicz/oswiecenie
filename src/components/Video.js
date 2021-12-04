@@ -66,7 +66,6 @@ const Video = () => {
             <p>
               W Polsce idee oświecenia doprowadziły do przyjęcia Konstytucji 3
               maja (1791) oraz do nieudanych prób budowy nowoczesnego państwa.
-              Panował styl określany mianem klasycyzmu wszechpolskiego.
             </p>
             <br />
             <p>
