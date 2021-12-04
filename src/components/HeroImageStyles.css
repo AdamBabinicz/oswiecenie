@@ -40,4 +40,7 @@
   .hero-img h2 {
     font-size: 2rem;
   }
+  .heading p {
+    width: 100%;
+  }
 }
