@@ -5,6 +5,7 @@ import Training from "./routes/Training";
 import Contact from "./routes/Contact";
 import ScrollToTop from "./components/ScrollToTop";
 import CookieConsent from "react-cookie-consent";
+import Form from "./components/Form";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/nurty" element={<Pricing />} />
         <Route path="/polscy-tworcy" element={<Training />} />
         <Route path="/oswiecenie" element={<Contact />} />
+        <Route path="/więcej" element={<Form />} />
       </Routes>
       <CookieConsent
         debug={true}
