@@ -114,8 +114,7 @@ const Pricing = () => {
               pojęcia gustu, czyli smaku. Jego przymiotami są czułość,
               delikatność, trafność. Czułość staje się dyspozycją władz
               emocjonalnych człowieka stojącego na wysokim poziomie
-              intelektualnym, zmniejszająca natężenie reakcji emocjonalnych,
-              pojawiających się gwałtownie, często prymitywnych.
+              intelektualnym, zmniejszająca natężenie reakcji emocjonalnych.
             </p>
             <br />
             <p>
