@@ -41,8 +41,20 @@ const Footer = () => {
             brzmi hasło oświecenia" - Immanuel Kant.
           </p>
           <div className="social">
-            <FaFacebook size={30} style={{ marginRight: "1rem" }} />
-            <FaTwitter size={30} style={{ marginRight: "1rem" }} />
+            <a
+              href="//www.facebook.com/30liceumlodz/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaFacebook size={30} style={{ marginRight: "1rem" }} />
+            </a>
+            <a
+              href="//twitter.com/poniatowskistan"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <FaTwitter size={30} style={{ marginRight: "1rem" }} />
+            </a>
           </div>
         </div>
       </div>
