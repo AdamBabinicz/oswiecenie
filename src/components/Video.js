@@ -63,10 +63,6 @@ const Video = () => {
               form oświecenia niekiedy używa się nazwy z danego języka (np. die
               Aufklärung wobec niemieckiej formy oświecenia).
             </p>
-            <p>
-              W Polsce idee oświecenia doprowadziły do przyjęcia Konstytucji 3
-              maja (1791) oraz do nieudanych prób budowy nowoczesnego państwa.
-            </p>
             <br />
             <p>
               <em>pl.wikipedia.org/wiki/Oświecenie_(epoka)</em>
